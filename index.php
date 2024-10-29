@@ -1,0 +1,1 @@
+<?php /* MAKE SECURTY STRONGER */ ?>
